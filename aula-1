@@ -1,0 +1,64 @@
+3. Solicite ao usuário que digite um CPF e verifique se ele tem exatamente 11 digitos. Caso contrario, exiba uma mensagem personalidade explicando o erro
+
+
+4.Converta os dados abaixo:
+
+let n1 = '150';  // para int
+let n2 = 18; // para string
+let n3 = "20.99"; //float
+let n4 = "010"; //para int
+
+
+5. Qual valor de cada variável abaixo:
+
+a)   let soraia = 0
+soraia++;
+
+------------------------
+
+b)   let bichinho = 5,
+bichinho++
+
+------------------------
+
+c)   let mateus = 40;
+mateus--;
+
+------------------------
+
+d)   let numero = 10;
+numero += 5;
+
+------------------------
+
+e)   let saldo = 500;
+saldo -= 200;
+
+------------------------
+
+f)   let b1 = 9;
+b1 *= 2;
+
+------------------------
+
+g)   let aux = 1;
+aux = aux + 9;
+
+------------------------
+
+h)   let aux = 5;
+aux = aux - 5;
+
+
+6. crie um objeto aluno com as propriedades nome, idade, notaFinal e aprovado(boolean).
+
+7. com a atividade acima, crie uma string informando o nome, idade, nota e se foi aprovado
+
+8. faça uma calculadora da sua idade 
+
+9. converta graus celsius para fahrenheit com a formula f = (C * 9/5) + 32
+
+a) 18°C           c) 27°C            e) 100°C               g) -4°C
+
+b) 5°C            d) 0               f) 44°C                h) 33°C
+
