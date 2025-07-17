@@ -1,10 +1,10 @@
 // 7) Crie uma verificação onde se a pessoa tem mais de 16 anos e se possui título de eleitor exiba “Tem o direito de votar.”.
 
 function verificar(idade, possuiTitulo) {
-    if (idade > 16 && possuiTitulo) {
-      return "Tem o direito de votar.";
+    if (idade >= 16 && possuiTitulo) {
+      console.log("Tem o direito de votar.");
     } else {
-      return "Não tem o direito de votar.";
+      console.log( "Não tem o direito de votar.");
     }
   }
   

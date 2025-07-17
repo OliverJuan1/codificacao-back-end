@@ -2,7 +2,7 @@
 
 let frutas = ["Maçã", "Graviola", "Acerola", "Uva"];
 
-frutas.push("Abacaxi");
+frutas.push("limão");
 
 frutas.pop();
 
