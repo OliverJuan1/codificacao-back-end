@@ -5,6 +5,8 @@ const dadosAdicionais = {
 }
 
 
+
+// PODE SER UTILIZADO PARA DESESTRUTURAR ARRAYS E OBJETOS
 const pessoa = {
     name: "Oliver",
     idade: 16,
@@ -12,5 +14,3 @@ const pessoa = {
 }
 
 console.log(pessoa)
-
-// PODE SER UTILIZADO PARA DESESTRUTURAR ARRAYS E OBJETOS

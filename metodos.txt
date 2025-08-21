@@ -1,0 +1,4 @@
+	GET ---> Buscar informações
+	POST ---> Enviar informações
+	PUT ---> Atualizar informações
+	DELETE ---> Apagar informações
