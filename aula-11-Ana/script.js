@@ -98,6 +98,40 @@ fetch(url, {
             console.log("Error");
 
         return response.json();
+
+    })
+
+    .catch(error => console.error("Erro:", error)).then(data => console.log("Resposta do servidor: ", data));
+fetch(url, {
+    method: "POST",
+    headers: {
+        'content-type': 'application/json'
+    },
+    body: JSON.stringify(objNovoDado)
+})
+    .then(response => {
+        if (!response)
+            console.log("Error");
+
+        return response.json();
+
+    })
+
+    .catch(error => console.error("Erro:", error)).then(data => console.log("Resposta do servidor: ", data));
+fetch(url, {
+    method: "POST",
+    headers: {
+        'content-type': 'application/json'
+    },
+    body: JSON.stringify(objNovoDado)
+})
+    .then(data => console.log("Resposta do servidor: ", data));
+    .then(response => {
+        if (!response)
+            console.log("Error");
+
+        return response.json();
+
     })
     .then(data => console.log("Resposta do servidor: ", data));
-    .catch()
+    .catch (error => console.error("Erro:", error));
