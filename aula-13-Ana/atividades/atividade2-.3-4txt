@@ -1,0 +1,25 @@
+atividade 2
+
+Resposta A
+
+
+
+--------------------------------------------------------------
+
+atividade 3
+
+Classe: Uma classe é um molde ou um modelo que define as propriedades e comportamentos comuns de um tipo de objeto. Em outras palavras, a classe define a estrutura do que o objeto vai ser, mas não é um objeto em si.
+
+Objeto: Um objeto é uma instância concreta de uma classe. Ou seja, enquanto a classe é o plano ou a descrição, o objeto é a realidade.
+
+
+Classe "Carro": É a definição do que é um carro, incluindo características e comportamentos. A classe pode ter atributos como cor, modelo, ano, e métodos como ligar(), acelerar()
+
+Objeto "meuCarro": Quando você cria uma instância da classe "Carro", você tem um objeto específico chamado meuCarro. Ele terá valores concretos para os atributos, como cor = "preto", modelo = "Fusca"
+----------------------------------------------------------------
+
+
+atividade 4
+Resposta
+nome, idade, cpf, corPreferida, musicaPreferida, cabelo,
+carroPreferido, etnia;
