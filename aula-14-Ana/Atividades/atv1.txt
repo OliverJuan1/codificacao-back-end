@@ -1,0 +1,19 @@
+Explicacao 1
+
+Public = Qualquer pessoa pode acessar
+
+Private =  So pode acessar dentro da propria classe
+
+Protected  = e meio que a metade do public e do private, pode ser acessado tanto quanto dentro da classe, tanto quanto fora
+
+
+Explicacao 2
+
+Get = Serve para Pegar dados da classe 
+
+Set = Serve para Definir dados da classe
+
+
+Explicacao 3
+
+Encapsulamento = uma forma de proteger os dados
