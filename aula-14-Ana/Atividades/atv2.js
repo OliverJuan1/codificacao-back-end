@@ -14,7 +14,7 @@ class Aluno {
         return this.#nome
     }
 
-setNota(nota) {
+    setNota(nota) {
         if (nota < 0 || nota > 10) {
             this.nota = nota;
         }
@@ -24,6 +24,6 @@ setNota(nota) {
         return this.#nota
     }
 
-    
+
 }
 module.exports = Aluno;
