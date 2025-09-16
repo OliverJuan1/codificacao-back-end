@@ -1,0 +1,70 @@
+Lista de Atividades
+
+
+1) A API e um conjunto de regras e definições que permite comunicação entre sistemas 
+endpoint e um endereco especifico de um bloco dessa API e responde a uma funcionalidade
+
+
+2) GET -> listar todos
+   POST -> cadastrar um usuario
+   PUT -> atualiza tudo que esta no site
+   PATCH -> atualiza parcialmente
+   DELETE -> deleta praticamente tudo
+
+
+3) definir o conteúdo da requisição
+   carrega info adicionais que ajudam 
+content-type
+autorization
+
+
+4) query params 
+   params da rota: parte fixa da rota
+
+
+5) facilita o teste da API validacao e a documentacao de endpoints, permitindo enviar requisicoes, analisar respostas e simular cenarios reais sem precisar de codigo
+
+ 
+6) req -> cliente
+   res -> servidor
+
+
+
+ 7) classe é o modelo
+  objeto é a instacia de uma classe "civic"
+
+
+ 8) atributo: caracteristica
+   metodo: sao funcoes
+
+
+ 9) é o ato de proteger os dados de uma classe controlando o acesso a eles evita modificacoes indevidas e mantem seguranca 
+
+
+10) setters -> definir/ setar 
+    getters -> pegar 
+
+11) o express e um framework que facilita a criacao de rotas, middlewares e controle de requisicoes e respostas do back-end 
+
+
+12)  rotas organizam o endpoint
+     os controladores contem a regra de negocio
+     modelos representam comunicacao com o banco de dados
+
+
+13) middleware e uma fincao intermediaria que processa 
+
+
+14) pradonizar mensagens, facilitar validacao 
+
+
+15) trycatch -> usado em bloco especifico de codigo
+middleware -> captura erros de toda aplicacao garantindo trabalho centralizado
+
+
+
+16) ORM  e uma ferramenta que permite interagir com banco de dados 
+
+17)  1 -> facilita a criacao e manipulacao de tabela sem precisar do SQL
+2-> suporte migracoes de bancos
+3 -> suporta todos os bancos	
