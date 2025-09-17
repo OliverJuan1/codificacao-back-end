@@ -5,7 +5,7 @@ Lista de Atividades
 endpoint e um endereco especifico de um bloco dessa API e responde a uma funcionalidade
 
 
-2) GET -> listar todos
+2) GET -> lista/pega todos
    POST -> cadastrar um usuario
    PUT -> atualiza tudo que esta no site
    PATCH -> atualiza parcialmente
